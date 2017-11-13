@@ -1,0 +1,15 @@
+{
+  "name": "santhosh-ssh",
+  "version": "1.0.0",
+  "author": "Santhosh",
+  "summary": "This moule deploys ssh modules on Cnetos and Ubuntu machines",
+  "license": "Own licence",
+  "source": "https://github.com/santhu3064/puppet-modules.git",
+  "project_page": "https://github.com/santhu3064/puppet-modules.git",
+  "issues_url": "https://github.com/santhu3064/puppet-modules.git",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+

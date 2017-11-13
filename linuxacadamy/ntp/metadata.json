@@ -1,0 +1,15 @@
+{
+  "name": "santhosh-ntp",
+  "version": "1.0.0",
+  "author": "santhosh",
+  "summary": "This module manages puppet",
+  "license": "NTP",
+  "source": "https://github.com/santhu3064/puppet-modules.git",
+  "project_page": "https://github.com/santhu3064/puppet-modules.git",
+  "issues_url": "https://github.com/santhu3064/puppet-modules.git",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
